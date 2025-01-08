@@ -1,5 +1,5 @@
 ---
-name: template_project
+name: bit_project
 channels: [conda-forge, r, nodefaults]
 dependencies:
   - python ==3.12
